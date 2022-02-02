@@ -1,0 +1,22 @@
+mysql:
+  host: 'localhost'
+  port: 3306
+  database: 'vkmod'
+  user: 'root'
+  password: ''
+  args: '?autoReconnect=true'
+
+vk:
+  token: 'TOP SECRET'
+  group-id: 123456789
+  xp-enabled: true
+  max-warnings: 3
+  commands-prefix: ''
+  mod-chats:
+    - 1
+    - 2
+    - 3
+  ignore-chats:
+    - 4
+    - 5
+    - 6

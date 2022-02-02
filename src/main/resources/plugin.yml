@@ -1,0 +1,8 @@
+name: VKModer
+version: '1.1'
+main: ru.ibusewinner.fundaily.vkmoder.VKModer
+api-version: 1.18
+depend: [ BuseAPI ]
+authors: [ iBuseWinner ]
+description: VK Moderator
+website: https://fdmc.pw/
